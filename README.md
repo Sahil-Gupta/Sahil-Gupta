@@ -8,7 +8,7 @@
 <br/>
 
 
-Hi, I'm Sahil Gupta, pursuing B.Tech in Electronics and Communication from Netaji Subhas University of Technology, Delhi .
+Hi, I'm Sahil Gupta, pursuing B.Tech in Electronics and Communication Engineering from Netaji Subhas University of Technology, Delhi .
 <br/>
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=Sahil-Gupta&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
